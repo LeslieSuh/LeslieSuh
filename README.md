@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LeslieSuh
+- 👀 I’m interested in Front-end and Gaming!
+- 🌱 I’m currently learning basic stuff (HTML, CSS, JS)
