@@ -2,4 +2,3 @@
 - 👀 I’m interested in all kinds of programming languages!
 - 🌱 I’m currently learning basic stuff (HTML, CSS, JS, Python, SQL)
 - 🎮 I love playing video games on PC, Nintendo Switch and PS4
-- 🗣️ I can speak Korean(Native), English(C2), Japanese(N4), and Vietnamese(basic)
