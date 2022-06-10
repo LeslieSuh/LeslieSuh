@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LeslieSuh
 - 👀 I’m interested in all kinds of programming languages!
-- 🌱 I’m currently learning basic stuff (HTML, CSS, JS, Python, SQL)
+- 🌱 Currently learning React
 - 🎮 I love playing video games on PC, Nintendo Switch and PS4
