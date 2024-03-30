@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @LeslieSuh
-- 👀 I’m interested in all kinds of programming languages!
-- 🌱 Currently learning React
-- 🎮 I love playing video games on PC, Nintendo Switch and PS4
+- 👋 Hi, I’m @LeslieSuh 👩🏻‍💻
+- 🍌 I like banana bread and Ben & Jerries 🍨
